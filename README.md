@@ -5,6 +5,11 @@ It is a Travel-Agent Website created with an inspirational design over Figma. Co
 
 # First Glances:
 ![Screenshot 2023-12-28 233147](https://github.com/Alphawolf-hue/TravelGO/assets/133038237/4ce22222-6212-40bc-9a6f-82f5bbf16df1)
+![Screenshot 2023-12-28 233212](https://github.com/Alphawolf-hue/TravelGO/assets/133038237/0e732a5e-0725-4fd4-bc9f-9234d7bfcb53)
+![Screenshot 2023-12-28 233226](https://github.com/Alphawolf-hue/TravelGO/assets/133038237/56eb8218-2058-4b3e-83a6-4d2d360393f9)
+![Screenshot 2023-12-28 233235](https://github.com/Alphawolf-hue/TravelGO/assets/133038237/cfa5c339-2e21-4982-ad41-29ae9bf0589c)
+![Screenshot 2023-12-28 233201](https://github.com/Alphawolf-hue/TravelGO/assets/133038237/a4dd00bd-a029-4488-8573-07e61c6be956)
+
 # Features:
 Destination Explorer:
 Explore a curated list of travel destinations with beautiful images and detailed information.
