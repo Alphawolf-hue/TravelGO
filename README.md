@@ -4,7 +4,7 @@
 It is a Travel-Agent Website created with an inspirational design over Figma. Come visit our website to explore equisite bounty of nature by visiting with us.
 
 # First Glances:
-
+![Screenshot 2023-12-28 233147](https://github.com/Alphawolf-hue/TravelGO/assets/133038237/4ce22222-6212-40bc-9a6f-82f5bbf16df1)
 # Features:
 Destination Explorer:
 Explore a curated list of travel destinations with beautiful images and detailed information.
